@@ -1,0 +1,191 @@
+d13b
+                    3D
+ Schrodinger Suite 2022-1.
+ 30 32  0  0  1  0            999 V2000
+    1.6466   12.5466   49.8346 C   0  0  0  0  0  0
+    2.1215   11.0740   49.6740 C   0  0  0  0  0  0
+    3.4740   10.9060   49.4068 C   0  0  0  0  0  0
+    4.0266    9.6382   49.2338 C   0  0  0  0  0  0
+    5.3194    9.4960   48.9419 F   0  0  0  0  0  0
+    3.2185    8.5216   49.3456 C   0  0  0  0  0  0
+    1.8914    8.6598   49.6506 C   0  0  0  0  0  0
+    1.3153    9.9255   49.7828 C   0  0  0  0  0  0
+   -0.0274    9.9602   50.1645 C   0  0  0  0  0  0
+   -1.0811   10.5229   49.4561 C   0  0  0  0  0  0
+   -0.3162    9.4447   51.3835 N   0  0  0  0  0  0
+   -1.5826    9.4589   51.9169 C   0  0  0  0  0  0
+   -1.9411    8.7033   53.4739 S   0  0  0  0  0  0
+   -1.1138    7.0897   53.3677 C   0  0  0  0  0  0
+   -2.5881   10.0034   51.2432 N   0  0  0  0  0  0
+   -2.3561   10.5040   50.0172 C   0  0  0  0  0  0
+   -3.1647   11.0771   49.1622 N   0  0  0  0  0  0
+   -2.4823   11.4672   48.0800 C   0  0  0  0  0  0
+   -1.2026   11.1572   48.2237 N   0  0  0  0  0  0
+    0.5764   12.5633   50.0405 H   0  0  0  0  0  0
+    2.1824   13.0136   50.6610 H   0  0  0  0  0  0
+    1.8479   13.0961   48.9150 H   0  0  0  0  0  0
+    4.1203   11.7678   49.3294 H   0  0  0  0  0  0
+    3.6342    7.5367   49.1921 H   0  0  0  0  0  0
+    1.2758    7.7838   49.7922 H   0  0  0  0  0  0
+   -1.2761    6.5360   54.2924 H   0  0  0  0  0  0
+   -1.5236    6.5252   52.5301 H   0  0  0  0  0  0
+   -0.0446    7.2382   53.2166 H   0  0  0  0  0  0
+   -4.1474   11.1659   49.3780 H   0  0  0  0  0  0
+   -2.9959   11.9548   47.2646 H   0  0  0  0  0  0
+  1  2  1  0  0  0
+  1 20  1  0  0  0
+  1 21  1  0  0  0
+  1 22  1  0  0  0
+  2  3  2  0  0  0
+  2  8  1  0  0  0
+  3  4  1  0  0  0
+  3 23  1  0  0  0
+  4  5  1  0  0  0
+  4  6  2  0  0  0
+  6  7  1  0  0  0
+  6 24  1  0  0  0
+  7  8  2  0  0  0
+  7 25  1  0  0  0
+  8  9  1  0  0  0
+  9 10  1  0  0  0
+  9 11  2  0  0  0
+ 10 16  2  0  0  0
+ 10 19  1  0  0  0
+ 11 12  1  0  0  0
+ 12 13  1  0  0  0
+ 12 15  2  0  0  0
+ 13 14  1  0  0  0
+ 14 26  1  0  0  0
+ 14 27  1  0  0  0
+ 14 28  1  0  0  0
+ 15 16  1  0  0  0
+ 16 17  1  0  0  0
+ 17 18  1  0  0  0
+ 17 29  1  0  0  0
+ 18 19  2  0  0  0
+ 18 30  1  0  0  0
+M  END
+> <s_m_entry_id>
+22
+
+> <s_m_entry_name>
+4fcq.1_mol2
+
+> <s_pdb_PDB_TITLE>
+TARGETING CONSERVED WATER MOLECULES: DESIGN OF 4-ARYL-5- CYANOPYRROLO[2,3-D]PYRIMIDINE HSP90 INHIBITORS USING FRAGMENT-BASED SCREENING AND STRUCTURE-BASED OPTIMIZATION
+
+> <s_pdb_PDB_ID>
+4FCQ
+
+> <r_pdb_PDB_CRYST1_a>
+64.976
+
+> <r_pdb_PDB_CRYST1_b>
+87.957
+
+> <r_pdb_PDB_CRYST1_c>
+99.205
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+I 2 2 2
+
+> <i_pdb_PDB_CRYST1_z>
+8
+
+> <s_pdb_PDB_CLASSIFICATION>
+CHAPERONE
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+25-MAY-12
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <r_pdb_PDB_R>
+0.188
+
+> <r_pdb_PDB_Rfree>
+0.247
+
+> <r_pdb_PDB_RESOLUTION>
+2.15
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_EXPDTA_PH>
+6.5
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_2_Transform_1_Matrix_2>
+-1.000000 0.000000 0.000000   64.976000;0.000000 -1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_m_Source_Path>
+/data0/joe/Dropbox (Graduate Center)/water-hopping/Papers
+
+> <s_m_Source_File>
+4fcq.pdb
+
+> <i_m_Source_File_Index>
+1
+
+> <s_ppw_group_name_backup>
+4FCQ_split_by_molecule
+
+> <s_ppw_entry_id_backup>
+12
+
+> <b_ppw_prepared>
+1
+
+> <s_ppw_prepared_with_version>
+2022-1
+
+> <b_ppw_assigned_bond_orders>
+1
+
+> <b_ppw_added_hydrogens>
+1
+
+> <b_ppw_treated_metals>
+1
+
+> <b_ppw_created_disulfur>
+1
+
+> <s_ppw_het_states>
+eJxNkbGSgkAQRH9lamPU7UVANDMyvbrQIqDU6Di4gAssy393ZmtaIaB7hplXvcsjIOzlrA8KiV0h5+Raum5dK9fatXHdubauiDQkgkiQCUJBKogFuSAYJCeSUyabs9RKhwdXfnK78662tm5Vq4+tfVa18W6T15KfqvWuaVx4+Ehu1suCGzYCxsqmXBYVd6zLcNY1GngbYKpseJxsWgLMMJoZu5jSLiauY4xKfATY/43rVFqogOpdPQtZcSx8z/18k7/b2A/zfZ/X5efSD5vfaTjIaXWcxqtcpv9x1o8H+dJ36LrnC4Gwe5Y=
+
+> <s_m_subgroup_title>
+4FCP_split_by_chain->4FCP_chainA_split_by_molecule
+
+> <s_m_subgroupid>
+4FCP_split_by_chain->4FCP_chainA_split_by_molecule
+
+> <b_m_subgroup_collapsed>
+0
+
+$$$$

@@ -1,0 +1,217 @@
+4ZLZ_molecule5 - prepared
+                    3D
+ Schrodinger Suite 2023-4.
+ 34 36  0  0  1  0            999 V2000
+  -22.6430    9.3465   -6.7549 C   0  0  0  0  0  0
+  -23.2968    8.0585   -4.9394 C   0  0  0  0  0  0
+  -22.2628    8.5543   -4.1348 C   0  0  0  0  0  0
+  -22.1263    8.0714   -2.7315 C   0  0  0  0  0  0
+  -23.0220    8.0316   -0.4731 C   0  0  0  0  0  0
+  -19.8459    5.9986   -0.5618 C   0  0  0  0  0  0
+  -18.9169    5.6518   -1.5650 C   0  0  0  0  0  0
+  -20.2694   10.1503   -3.9031 C   0  0  0  0  0  0
+  -21.3929    9.5064   -4.7049 C   0  0  0  0  0  0
+  -21.5890    9.9043   -6.0325 C   0  0  0  0  0  0
+  -23.4956    8.4351   -6.2272 N   0  0  0  0  0  0
+  -23.0992    8.4358   -1.7988 C   0  0  0  0  0  0
+  -21.9670    7.2406   -0.0362 C   0  0  0  0  0  0
+  -20.9517    6.8221   -0.9404 C   0  0  0  0  0  0
+  -19.6958    5.5667    0.7644 N   0  0  0  0  0  0
+  -19.0710    6.0777   -2.8464 N   0  0  0  0  0  0
+  -20.0991    6.8499   -3.2094 N   0  0  0  0  0  0
+  -21.0392    7.2425   -2.3042 C   0  0  0  0  0  0
+  -17.7095    4.7682   -1.3103 C   0  0  0  0  0  0
+  -16.6072    5.0213   -2.0246 N   0  0  0  0  0  0
+  -17.7313    3.8615   -0.4798 O   0  0  0  0  0  0
+  -22.8211    9.6340   -7.7808 H   0  0  0  0  0  0
+  -23.9917    7.3273   -4.5523 H   0  0  0  0  0  0
+  -23.7878    8.3378    0.2245 H   0  0  0  0  0  0
+  -19.9853   11.1175   -4.3197 H   0  0  0  0  0  0
+  -20.5831   10.3385   -2.8757 H   0  0  0  0  0  0
+  -19.3909    9.5054   -3.8807 H   0  0  0  0  0  0
+  -20.9416   10.6344   -6.4960 H   0  0  0  0  0  0
+  -23.9296    9.0558   -2.1057 H   0  0  0  0  0  0
+  -21.9283    6.9403    1.0003 H   0  0  0  0  0  0
+  -20.4055    5.7887    1.4466 H   0  0  0  0  0  0
+  -18.9524    4.9145    0.9763 H   0  0  0  0  0  0
+  -15.7801    4.4608   -1.8840 H   0  0  0  0  0  0
+  -16.5992    5.7641   -2.7077 H   0  0  0  0  0  0
+  1 10  1  0  0  0
+  1 11  2  0  0  0
+  1 22  1  0  0  0
+  2  3  2  0  0  0
+  2 11  1  0  0  0
+  2 23  1  0  0  0
+  3  4  1  0  0  0
+  3  9  1  0  0  0
+  4 12  1  0  0  0
+  4 18  2  0  0  0
+  5 12  2  0  0  0
+  5 13  1  0  0  0
+  5 24  1  0  0  0
+  6  7  2  0  0  0
+  6 14  1  0  0  0
+  6 15  1  0  0  0
+  7 16  1  0  0  0
+  7 19  1  0  0  0
+  8  9  1  0  0  0
+  8 25  1  0  0  0
+  8 26  1  0  0  0
+  8 27  1  0  0  0
+  9 10  2  0  0  0
+ 10 28  1  0  0  0
+ 12 29  1  0  0  0
+ 13 14  2  0  0  0
+ 13 30  1  0  0  0
+ 14 18  1  0  0  0
+ 15 31  1  0  0  0
+ 15 32  1  0  0  0
+ 16 17  2  0  0  0
+ 17 18  1  0  0  0
+ 19 20  1  0  0  0
+ 19 21  2  0  0  0
+ 20 33  1  0  0  0
+ 20 34  1  0  0  0
+M  END
+> <i_m_Source_File_Index>
+1
+
+> <i_pdb_PDB_CRYST1_z>
+4
+
+> <b_m_subgroup_collapsed>
+0
+
+> <b_ppw_created_disulfur>
+1
+
+> <b_ppw_prepared>
+1
+
+> <r_i_Bend_Energy-S-OPLS>
+4.47488
+
+> <r_i_Dihedral_Energy-S-OPLS>
+5.59693
+
+> <r_i_El-14_Energy-S-OPLS>
+-11.4937
+
+> <r_i_Electrostatic_Energy-S-OPLS>
+4.8014
+
+> <r_i_LJ-14_Energy-S-OPLS>
+35.5698
+
+> <r_i_Max_Derivative-S-OPLS>
+0.145913
+
+> <r_i_Potential_Energy-S-OPLS>
+40.543
+
+> <r_i_RMS_Derivative-S-OPLS>
+0.0498415
+
+> <r_i_Stretch_Energy-S-OPLS>
+5.02217
+
+> <r_i_Van_der_Waals_Energy-S-OPLS>
+-3.42852
+
+> <r_i_target_temperature>
+298
+
+> <r_pdb_PDB_CRYST1_a>
+72.909
+
+> <r_pdb_PDB_CRYST1_alpha>
+90
+
+> <r_pdb_PDB_CRYST1_b>
+103.788
+
+> <r_pdb_PDB_CRYST1_beta>
+90
+
+> <r_pdb_PDB_CRYST1_c>
+38.032
+
+> <r_pdb_PDB_CRYST1_gamma>
+90
+
+> <r_pdb_PDB_EXPDTA_PH>
+6.5
+
+> <r_pdb_PDB_EXPDTA_TEMPERATURE>
+100
+
+> <r_pdb_PDB_R>
+0.176
+
+> <r_pdb_PDB_RESOLUTION>
+2
+
+> <r_pdb_PDB_Rfree>
+0.241
+
+> <r_ppw_preprocess_pH>
+7.4
+
+> <s_ff_OPLSVersion>
+OPLS4
+
+> <s_m_Source_File>
+proteinprep_2-out.maegz
+
+> <s_m_Source_Path>
+/home/joe/Dropbox (Graduate Center)/waterhop2023/hsp90_s8_s11/hsp90_s8_s11.prj/jobs/proteinprep_2
+
+> <s_m_entry_id>
+13
+
+> <s_m_entry_name>
+4zlz.1_mol6
+
+> <s_m_job_name>
+proteinprep_2
+
+> <s_m_subgroup_title>
+proteinprep_2-out
+
+> <s_m_subgroupid>
+proteinprep_2-out
+
+> <s_pdb_PDB_CLASSIFICATION>
+TRANSFERASE/TRANSFERASE INHIBITOR
+
+> <s_pdb_PDB_CRYST1_Space_Group>
+P 21 21 2
+
+> <s_pdb_PDB_DEPOSITION_DATE>
+02-MAY-15
+
+> <s_pdb_PDB_EXPDTA>
+X-RAY DIFFRACTION
+
+> <s_pdb_PDB_ID>
+4ZLZ
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Chains>
+A
+
+> <s_pdb_PDB_REMARK_350_Biomolecule_1_Transform_1_Matrix_1>
+1.000000 0.000000 0.000000   0.000000;0.000000 1.000000 0.000000   0.000000;0.000000 0.000000 1.000000   0.000000
+
+> <s_pdb_PDB_TITLE>
+CRYSTAL STRUCTURE OF BRUTON'S TYROSINE KINASE IN COMPLEX WITH A SUBSTITUTED CINNOLINE
+
+> <s_pdb_PDB_format_version>
+3.30
+
+> <s_ppw_het_states>
+eJxNUlluhDAMvQrKN61wErZeBY1QNM1MkVKoEqZShbh7bbCBD3gLyXNssqj+18c0TGOvPrLKginzDD0XXp6cRQG+u0Xdv1x8+kSigzwrbnnWaUbDaBlLxoqxZmwYW0YohEgiSCRIJkgoSCpILEguSDBIspZkvSUjU1P8xEbl/FQati2I+Gjux5yUbOD27ElbpmTpC294Z7n7Bze8Bk9ds40U7GlTZ8BzouYOLqWas2q7H13LjChHy5zoDCAjAqlG5PyCAbq4iq15GtCPH12Y/3BCb8U7LlHffnah3+1h+/V4G+g64GdoMVFBtSttNamalSFlzK6MpRtl7KFWlOk+RY/O+AoB5TA+pj7N8eKkforDc8DaaD5cSH69res/kF6eJA==
+
+> <s_ppw_prepared_with_version>
+2023-4
+
+$$$$

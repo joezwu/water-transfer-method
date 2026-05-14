@@ -1,4 +1,4 @@
-# Usage: python add_water_tether_vs1_vectorhardcode.py --systemXMLinFile c3d_sys_noVS.xml --systemXMLoutFile c3d_sys.xml --receptorPDBinFile c3d_noVS.pdb --systemPDBoutFile c3d.pdb --virtualsite "5404 5414 5405"
+# Usage: python add_water_tether_vs1_vectorhardcode.py --systemXMLinFile d13b_sys_noVS.xml --systemXMLoutFile d13b_sys.xml --receptorPDBinFile d13b_noVS.pdb --systemPDBoutFile d13b.pdb --virtualsite "9 18 17"
 # Emilio Gallicchio, 5/2023 adapted from code by Bill Swope, 11/2021
 
 ############################################

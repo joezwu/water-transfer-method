@@ -1,4 +1,4 @@
-# Usage: python add_water_tether_vs1_vectorhardcode.py --systemXMLinFile c3d_sys_noVS.xml --systemXMLoutFile c3d_sys.xml --receptorPDBinFile c3d_noVS.pdb --systemPDBoutFile c3d.pdb --virtualsite "5404 5414 5405"
+# Usage: python add_water_tether_vs1_vectorhardcode.py --systemXMLinFile b5_sys_noVS.xml --systemXMLoutFile b5_sys.xml --receptorPDBinFile b5_noVS.pdb --systemPDBoutFile b5.pdb --virtualsite "21 22 23"
 # Emilio Gallicchio, 5/2023 adapted from code by Bill Swope, 11/2021
 
 ############################################
@@ -124,21 +124,6 @@ nbforce.addParticle(0.0, 0.1, 0.0)
 
 addVS1(vs1)
 vs1_atom = pdbrcpt.topology.addAtom("VS1", element, residuecomplex1)
-
-##water tethering potential
-#wbforce = CustomBondForce("0.5*kfw*max(0,r-tolw)^2")
-#wbforce.addPerBondParameter("kfw")
-#wbforce.addPerBondParameter("tolw")
-##index of oxygen of tethered water (VMD index)
-#watom1 = int(args['waterOindex'])
-##index of ligand atom tethered to water (VMD index)
-#lig_watom1 = vs1_atom.index
-##sets the force constant and the tolerance parameters of the tethering potential
-#kfw = ( 25. * kilocalorie_per_mole/angstrom**2 )/(kilojoule_per_mole/nanometer**2)
-#tolw = ( 3.5 * angstrom )/nanometer
-##adds the tether to the system
-#wbforce.addBond(watom1, lig_watom1, [kfw, tolw])
-#system.addForce(wbforce)
 
 with open(args['systemXMLoutFile'], 'w') as output:
     output.write(XmlSerializer.serialize(system))
